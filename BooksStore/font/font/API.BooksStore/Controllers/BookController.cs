@@ -14,7 +14,7 @@ namespace API.BooksStore.Controllers
      * @Title:        BookController
      * @Description:  Controle de requisição de 
      *                Livros.
-     * @Author:       Rnaldo Torre
+     * @Author:       Ronaldo Torre
      * ------------------------------------------------
      ***************************************************/
 
